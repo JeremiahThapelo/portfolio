@@ -1,2 +1,2 @@
 # portfolio
-Website detailing all skill and qualifications by Jeremiah Thapelo
+Website detailing all skills and qualifications by Jeremiah Thapelo
